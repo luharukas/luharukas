@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Luharuka</h1>
 <h3 align="center">I am Machine Learning practitioner and also do research in quantum machine learning algorithms.</h3>
 
-- 🔭 I’m currently working on [Video Quality Enhancement using optical Flow]()
+- 🔭 I’m currently working on [Video Quality Enhancement using optical Flow](https://github.com/luharukas/Video-Quality-Enhancement-using-Optical-Flow)
 
 - 🌱 I’m currently learning **Quantum Computing, Website Development**
 
