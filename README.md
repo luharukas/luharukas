@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Video Quality Enhancement using optical Flow](https://github.com/luharukas/Video-Quality-Enhancement-using-Optical-Flow)
 
-- 🌱 I’m currently learning **Quantum Computing, Website Development**
+- 🌱 I’m currently learning **Parallel Computing, Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [github.com/luharukas](github.com/luharukas)
 
 - 💬 Ask me about **Machine Learning, Fundamentals of Quantum Computing**
 
-- 📫 Email me **luharukashubham4@gmail.com**
+- 📫 Email me **shubhamluharuka.cs.23@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamluharuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamluharuka/" height="30" width="40" /></a>
