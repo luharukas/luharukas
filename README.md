@@ -19,7 +19,7 @@
 
 I'm a Senior AI Engineer at [CloudSEK](https://cloudsek.com), where I work on applying **Agentic AI**, **Open-Source LLMs**, and **inference optimization** to cybersecurity problems — building systems that can reason about attacks, not just detect them.
 
-Outside of work, I'm exploring **Voice AI** and next-generation **agentic architectures** — particularly how autonomous agents can collaborate, plan, and act in complex real-world environments.
+Outside of work, I'm exploring **Voice AI**, **Synthetic Data Generation**, and next-generation **agentic architectures** — particularly how autonomous agents can collaborate, plan, and act in complex real-world environments. I'm also diving deep into **Edge Device Model Inference** through distillation and pruning, bringing capable models closer to the hardware.
 
 **Current focus areas:**
 - Agentic pipelines with multi-step reasoning and tool use
