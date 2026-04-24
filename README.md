@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Luharuka</h1>
-<h3 align="center">I am Machine Learning Engineer at CloudSEK.</h3>
+<h3 align="center">I am Senior AI/ML Engineer at CloudSEK.</h3>
 
 - 🌱 I’m currently learning **Reinforcement Learning from Human Feedback, Agentic AI**
 
