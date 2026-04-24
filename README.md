@@ -1,25 +1,80 @@
-<h1 align="center">Hi 👋, I'm Shubham Luharuka</h1>
-<h3 align="center">I am Senior AI/ML Engineer at CloudSEK.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Reinforcement Learning from Human Feedback, Agentic AI**
+# Shubham Luharuka
 
-- 👨‍💻 All of my projects are available at [github.com/luharukas](github.com/luharukas)
+**Senior AI Engineer · CloudSEK**
 
-- 📫 Email me **shubhamluharuka.cs.23@gmail.com**
+*Building agentic AI systems that reason about cyber threats at scale.*
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shubhamluharuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamluharuka/" height="30" width="40" /></a>
-<a href="https://medium.com/@pseudobits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pseudobits" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/luharukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luharukas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/luharukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luharukas" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://qiskit.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamluharuka/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@luharuka)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shubhamluharuka.cs.23@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9979-5709)
 
+</div>
 
-</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luharukas&show_icons=true&locale=en&layout=compact" alt="luharukas" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luharukas&" alt="luharukas" /></p>
+I'm a Senior AI Engineer at [CloudSEK](https://cloudsek.com), where I work on applying **Agentic AI**, **Open-Source LLMs**, and **inference optimization** to cybersecurity problems — building systems that can reason about attacks, not just detect them.
+
+Outside of work, I'm exploring **Voice AI** and next-generation **agentic architectures** — particularly how autonomous agents can collaborate, plan, and act in complex real-world environments.
+
+**Current focus areas:**
+- Agentic pipelines with multi-step reasoning and tool use
+- Inference optimization for open-source LLMs (speculative decoding, quantization)
+- MCP (Model Context Protocol) servers for AI-native tooling
+- Reinforcement Learning from Human Feedback (RLHF)
+- Voice AI systems and real-time speech interfaces
+
+---
+
+## Featured Projects
+
+### 🔭 [Constellation — Cyber Attack Reasoning Platform](https://github.com/luharukas/Constellation-Cyber-Attack-Reasoning-Platform)
+An agentic reasoning platform for analyzing and understanding cyber attack patterns. Combines LLM-based reasoning with structured threat intelligence to go beyond rule-based detection.
+
+### ⚡ [Evaluating Speculative Decoding in LLMs](https://github.com/luharukas/Evaluating-Speculative-Decoding-in-LLMs)
+Systematic evaluation of speculative decoding techniques to accelerate LLM inference. Benchmarks performance tradeoffs across different draft-model configurations.
+
+### 🧠 [PaperPilot — MCP Agentic Research Server](https://github.com/luharukas/PaperPilot-MCP-agentic-research-server-)
+An MCP server for AI-powered research workflows — paper indexing, semantic search, and prompt/resource utilities. Built to demonstrate production-grade agentic tooling patterns.
+
+### 🤖 [TaskPilot — EPA Task Assigner](https://github.com/luharukas/TaskPilot-EPA-Task-Assigner)
+An intelligent task assignment system using LLM-based planning and evaluation. Automates delegation decisions using agent-based reasoning.
+
+### 📊 [Intelligent Excel Structuring System](https://github.com/luharukas/Intelligent-Excel-Structuring-System)
+AI-driven system for automatically structuring and organizing messy Excel data into clean, queryable formats using LLM extraction.
+
+### 🎮 [PPO on CartPole — Baseline RL Implementation](https://github.com/luharukas/Baseline-Implementation-of-Proximal-Policy-Optimization-PPO-on-CartPole-Environment)
+Clean baseline implementation of Proximal Policy Optimization (PPO) as part of my deep dive into reinforcement learning fundamentals.
+
+---
+
+## Tech Stack
+
+**AI/ML:** Python · PyTorch · TensorFlow · scikit-learn · OpenCV · Keras  
+**LLM Tooling:** LangChain · LlamaIndex · MCP · Hugging Face · vLLM  
+**Infrastructure:** Git · MySQL · Docker  
+**Exploring:** RLHF · Voice AI · Agentic Frameworks · Speculative Decoding
+
+---
+
+## Writing
+
+I write about AI, LLMs, and engineering on [Medium (@luharuka)](https://medium.com/@luharuka).
+
+---
+
+## Open To
+
+- Research collaborations in **Agentic AI** or **LLM inference**
+- Conversations on **Voice AI** and **autonomous agent design**
+- Speaking or writing opportunities in the AI/security space
+
+---
+
+<div align="center">
+<sub>Bangalore, India · Always building something.</sub>
+</div>
